@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nikhil-gupta-19a85525a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilgupta" height="30" width="40" /></a>
 <a href="https://instagram.com/nikhilgupta8402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhilgupta8402" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/stand storms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stand storms" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/standstorms9358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stand storms" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nikhilgupta8402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhilgupta8402" height="30" width="40" /></a>
 </p>
 
